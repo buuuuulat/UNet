@@ -5,5 +5,6 @@ venv/
 data/
 checkpoints/
 runs/
+outputs/
 .DS_Store
 .env
