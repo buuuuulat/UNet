@@ -2,4 +2,8 @@
 .vscode/
 .venv/
 venv/
+data/
+checkpoints/
+runs/
+.DS_Store
 .env
